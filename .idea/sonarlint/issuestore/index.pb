@@ -1,0 +1,23 @@
+
+ö
+jmoneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingService.java,d\2\d2f3ff1fe0f44aa0d8b254c407caad20890e4047
+û
+nmoneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/service/MoneyLaunderingServiceStub.java,8\3\8387e60b8a7f3bfbd3354b57e70226e1de4fd43c
+ê
+`moneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/model/SuspectAccount.java,0\3\0320c6d017c2edf5628fdaf743fee2270c8a210f
+ï
+emoneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingController.java,4\c\4c20556864cdbdb02ef90921599a8d669ca7bafd
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Ö
+Umoneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/TransactionReader.java,f\c\fcfe474439cb5a5bda2966b4a156cbd1a2803131
+á
+Wmoneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/TransactionAnalyzer.java,9\1\91e0f4f90f365a961205cca52db96017666a5d25
+
+Omoneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/Transaction.java,3\9\39a3dc0a652120cdd21f26bb90eaa6c917f3e7ac
+É
+Smoneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/AccountReporter.java,a\2\a2c4e6e7d305691e0599c9ce3bf3e14c5ba49a1f
+É
+Smoneylaunderingtool/src/main/java/edu/eci/arsw/moneylaundering/MoneyLaundering.java,3\c\3ca84a983b19e1ce96d39ce7f4605881be88720b
+ô
+imoneylaunderingapi/src/main/java/edu/eci/arsw/exams/moneylaunderingapi/MoneyLaunderingAPIApplication.java,0\d\0dc1cd468436d7e2fb5bf972347144d585e868f0

@@ -1,0 +1,8 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(à—º•ûÿÿÿÿ8ñàõÆ.
+R
+java:S1481"0Remove this unused "transaction" local variable.(¶ áõıÿÿÿÿ8ñàõÆ.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8‹£îÆ.
+W
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(üù„¹8ñàõÆ.
